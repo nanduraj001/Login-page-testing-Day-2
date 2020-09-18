@@ -11,13 +11,4 @@ Code Version: 1.0
 
 ## Download the Code :
 ``` 
-git clone https://github.com/anir0y/verzeo-webapp 
-```
-## Configuration:
-Follow the Classroom Video instruction. 
-
-## TODO:
-1. Write the text version on Video instruction on how to configure [X]
-2. create a seperate Video instruction [X]
-
------
+```https://github.com/nanduraj001/Login-page-testing-Day-2.git
